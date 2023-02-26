@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/15 15:01:38.000.166,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2018/09/15 15:18:36.000.143,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2018/09/15 16:34:01.000.470,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2018/09/15 16:34:25.000.295,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\thuli\Desktop\ServidorEventosRestDW\Unit6.pas</Transaction>
+    <Transaction>2018/09/15 16:34:25.000.295,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Users\thuli\Desktop\ServidorEventosRestDW\Unit6.dfm</Transaction>
+    <Transaction>2018/09/15 16:34:27.000.155,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\thuli\Desktop\ServidorEventosRestDW\Project2.dproj</Transaction>
+    <Transaction>2018/09/15 16:36:36.000.401,=C:\Users\thuli\Desktop\ServidorEventosRestDW\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
